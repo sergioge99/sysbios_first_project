@@ -1,0 +1,1 @@
+"./computos.obj" "./comun.obj" "./servidores.obj" "../TM4C123GH6PM.cmd" "../driverlib.lib" -l"configPkg/linker.cmd" -llibc.a 
